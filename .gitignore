@@ -1,0 +1,14 @@
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Build outputs
+build/
+DerivedData/
+*.ipa
+*.xcarchive
+
+# OS files
+.DS_Store
+Thumbs.db
